@@ -1,0 +1,83 @@
+########################################
+# Build Results
+########################################
+bin/
+obj/
+publish/
+
+########################################
+# Logs
+########################################
+[Ll]og/
+*.log
+
+########################################
+# User-specific Files
+########################################
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+########################################
+# IDE Settings
+########################################
+.vscode/
+.vs/
+.idea/
+*.DotSettings.user
+*.[Rr]e[Ss]harper
+_ReSharper*/
+
+########################################
+# OS-specific Files
+########################################
+.DS_Store
+*.swp
+*.swo
+*.tmp
+Thumbs.db
+
+########################################
+# NuGet Packages
+########################################
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+########################################
+# Tooling and EF
+########################################
+*.dbmdl
+*.bak
+*.orig
+Migrations/
+
+########################################
+# ASP.NET Scaffolding
+########################################
+ScaffoldingReadMe.txt
+
+########################################
+# Configuration and Secrets
+########################################
+secrets.json
+.env
+.env.*
+*.local
+appsettings.Development.json
+appsettings.Local.json
+
+########################################
+# Test Results
+########################################
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.testsettings
+*.vsmdi
