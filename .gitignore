@@ -69,7 +69,6 @@ secrets.json
 .env
 .env.*
 *.local
-appsettings.json
 appsettings.Development.json
 
 ########################################
@@ -81,3 +80,4 @@ TestResults/
 *.coveragexml
 *.testsettings
 *.vsmdi
+appsettings.json
